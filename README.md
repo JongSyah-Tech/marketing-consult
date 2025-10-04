@@ -1,4 +1,4 @@
-# 🧠 Marketing Consult — oleh Jong Syah Tech
+# 🧠 Marketing Consult — Jong Syah Tech
 
 > Sebuah landing page sinematik dan premium untuk **Agensi Konsultan Marketing**, dirancang dan dikembangkan oleh **Jong Syah Tech**.  
 > Fokus pada visual yang elegan, layout modern, dan UI yang berorientasi pada konversi.  
