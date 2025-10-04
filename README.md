@@ -29,5 +29,10 @@ Dibuat dengan pendekatan **visual storytelling** dan **conversion-focused design
 - **FontAwesome & Google Fonts**
 
 ---
+## 🖼️ Live Preview  
+👉 [View Demo](https://jongsyah-tech.github.io/marketing-consult/)
+*(link will be active after GitHub Pages deployment)*  
 
-## 📁 Struktur Folder
+---
+
+## 📂 Project Structure
